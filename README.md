@@ -30,7 +30,7 @@ This project consists of a tool able to convert your documents to Markdown.
 	```
 	pip install -r requirements.txt 
 	```  
-4. Select a folder to run recursively to convert all documents to MD, modifying within the code the parameter ``directory_path``  
+4. Select a folder to run recursively to convert all documents to MD, modifying within the code the parameter **directory_path**  
 5. Execute the script file:  
 	``` 
 	pyhton ./MDfy.py 
